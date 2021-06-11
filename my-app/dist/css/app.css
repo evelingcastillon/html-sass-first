@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: orange;
+}
+
+.paragrafo_1 {
+  color: #3bee00;
+}
+
+.paragrafo_2 {
+  color: #ff19b3;
+}
+
+.paragrafo_3 {
+  color: #00ddff;
+}
+
+.paragrafo_4 {
+  color: red;
+}
+
+.btn_1 {
+  border: 5px double red;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  color: black;
+  background-color: yellow;
+}
+
+.btn_2 {
+  border: 5px groove white;
+  background-color: #ff19b3;
+  font-weight: 600;
+  color: white;
+}
+
+.btn_3 {
+  background-color: #00ddff;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}

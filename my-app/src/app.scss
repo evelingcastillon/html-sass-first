@@ -1,0 +1,46 @@
+$brand_orange: orange;
+$brand_green: rgb(59, 238, 0);
+$brand_pink: rgb(255, 25, 179);
+$brand_celeste: rgb(0, 221, 255);
+$brand_red: red;
+$brand_yellow: yellow;
+$brand_black: black;
+$weight_600: 600;
+body {
+    background-color: $brand_black;
+}
+h1 {
+    color: $brand_orange;
+}
+.paragrafo_1 {
+    color: $brand_green;
+}
+.paragrafo_2 {
+    color: $brand_pink;
+}
+.paragrafo_3 {
+    color: $brand_celeste;
+}
+.paragrafo_4 {
+    color: $brand_red;
+}
+.btn_1 {
+    border: 5px double red;
+    border-radius: 0.5rem;
+    font-weight: $weight_600;
+    color: $brand_black;
+    background-color: $brand_yellow;
+}
+.btn_2 {
+    border: 5px groove white;
+    background-color: $brand_pink;
+    font-weight: $weight_600;
+    color: white;
+}
+.btn_3 {
+    background-color: $brand_celeste;
+    border-radius: 0.5rem;
+    font-weight: $weight_600;
+
+
+}
